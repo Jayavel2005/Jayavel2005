@@ -1,3 +1,5 @@
+# Creating the content as a readme.md file
+readme_content = """
 # Hi there, I'm Jayavel 👋
 
 ![Profile Banner](https://example.com/your-banner-image.jpg)
@@ -8,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm **Jayavel**, a full-stack enthusiast based in Coimbatore. Currently, I'm pursuing my B.E. in IT at Rathinam Technical Campus. My passion lies in web development, where I continuously explore and learn new technologies to enhance my skills.
+I'm **Jayavel**, a full-stack enthusiast based in Coimbatore. Currently, I'm pursuing my B.E. in IT at Rathinam Technical Campus. My passion lies in web development and UI/UX design, and I'm always exploring new technologies to enhance my skills.
 
 ### 🛠️ Technologies & Tools
 
@@ -18,6 +20,7 @@ I'm **Jayavel**, a full-stack enthusiast based in Coimbatore. Currently, I'm pur
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" />
 </p>
@@ -25,6 +28,7 @@ I'm **Jayavel**, a full-stack enthusiast based in Coimbatore. Currently, I'm pur
 ### 🌱 Currently Learning
 
 - **JavaScript** for front-end development
+- **UI/UX Design** with Figma
 
 ### 📈 GitHub Stats
 
@@ -33,19 +37,21 @@ I'm **Jayavel**, a full-stack enthusiast based in Coimbatore. Currently, I'm pur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavel2005&layout=compact&theme=radical&hide_border=true" alt="Jayavel's Top Languages" />
 </p>
 
-### 📫 How to Reach Me
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/l-g-jayavel-464943293"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/jayavel2005"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=jayavel2005&theme=radical&no-bg=true&no-frame=true" alt="Jayavel's Trophies" />
 </p>
 
-### 💼 Work Experience
+### 👨‍💻 Recent GitHub Activity
 
-- **Web Developer Intern at CodeBits** (20/06/2024 - 25/04/2024)
-  - Developing and maintaining websites
-  - Learning and implementing new technologies
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 💡 Interactive Code Demos
+
+- [Cutoff Calculator Demo on CodeSandbox](https://codesandbox.io/s/cutoff-calculator)
+- [Guess the Number Game Demo on CodePen](https://codepen.io/jayavel2005/pen/guess-the-number)
 
 ### 📚 Projects
 
@@ -61,6 +67,22 @@ I'm **Jayavel**, a full-stack enthusiast based in Coimbatore. Currently, I'm pur
 - Solved **43 questions** on [LeetCode](https://leetcode.com/u/Jaya05_/)
 - **5-star** rating on [HackerRank](https://www.hackerrank.com/profile/jayavel1520)
 
+### 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/l-g-jayavel-464943293"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/jayavel2005"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" /></a>
+</p>
+
+### 💼 Work Experience
+
+- **Web Developer Intern at CodeBits** (20/06/2024 - 25/04/2024)
+  - Developing and maintaining websites
+  - Learning and implementing new technologies
+
 ---
 
 <p align="center">⭐️ From [jayavel2005](https://github.com/jayavel2005)</p>
+"""
+
