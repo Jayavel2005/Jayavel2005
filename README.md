@@ -1,88 +1,24 @@
-# Creating the content as a readme.md file
-readme_content = """
-# Hi there, I'm Jayavel 👋
+# 💫 About Me:
+A passionate full-stack engineer with expertise in Web3, metadata analysis, OSINT, and UI/UX design. With a strong foundation in C, Python, and JavaScript, Jayavel specializes in developing interactive web applications and e-commerce platforms.<br><br>An enthusiastic teacher and mentor, Jayavel enjoys simplifying complex concepts like data structures, algorithms, and problem-solving, making learning more accessible. With hands-on experience in Tailwind CSS, Bootstrap, and JavaScript frameworks, Jayavel has successfully built projects ranging from custom chatbots to online store management systems.<br><br>Currently focused on interview preparation, UI/UX innovations, and advanced problem-solving, Jayavel thrives on challenges and continues to explore cutting-edge technologies to enhance digital experiences.<br><br>
 
-![Profile Banner](https://example.com/your-banner-image.jpg)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayavel2005&theme=radical&hide_border=true" alt="Jayavel's streak stats" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jayavel2005&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jayavel2005&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavel2005&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jayavel2005&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-I'm **Jayavel**, a full-stack enthusiast based in Coimbatore. Currently, I'm pursuing my B.E. in IT at Rathinam Technical Campus. My passion lies in web development and UI/UX design, and I'm always exploring new technologies to enhance my skills.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" />
-</p>
-
-### 🌱 Currently Learning
-
-- **JavaScript** for front-end development
-- **UI/UX Design** with Figma
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayavel2005&show_icons=true&theme=radical&hide_border=true" alt="Jayavel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavel2005&layout=compact&theme=radical&hide_border=true" alt="Jayavel's Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayavel2005&theme=radical&no-bg=true&no-frame=true" alt="Jayavel's Trophies" />
-</p>
-
-### 👨‍💻 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 💡 Interactive Code Demos
-
-- [Cutoff Calculator Demo on CodeSandbox](https://codesandbox.io/s/cutoff-calculator)
-- [Guess the Number Game Demo on CodePen](https://codepen.io/jayavel2005/pen/guess-the-number)
-
-### 📚 Projects
-
-- [**Cutoff Calculator**](#): A handy tool to calculate academic cutoffs.
-- [**Functional Calculator**](#): A web-based calculator for various functions.
-- [**Guess the Number Game**](#): An interactive game where users guess a randomly generated number.
-
-### 🏆 Certifications & Achievements
-
-- **Python Certification** - HackerRank
-- **CSS Certification** - HackerRank
-- Solved **376 questions** on [CodeChef](https://www.codechef.com/users/jayavel1520)
-- Solved **43 questions** on [LeetCode](https://leetcode.com/u/Jaya05_/)
-- **5-star** rating on [HackerRank](https://www.hackerrank.com/profile/jayavel1520)
-
-### 📫 How to Reach Me
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/l-g-jayavel-464943293"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/jayavel2005"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" /></a>
-</p>
-
-### 💼 Work Experience
-
-- **Web Developer Intern at CodeBits** (20/06/2024 - 25/04/2024)
-  - Developing and maintaining websites
-  - Learning and implementing new technologies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jayavel2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Jayavel2005&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">⭐️ From [jayavel2005](https://github.com/jayavel2005)</p>
-"""
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
