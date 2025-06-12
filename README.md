@@ -30,6 +30,15 @@
 <details>
   <summary>Click to see the full list of my skills</summary>
   <br/>
+
+  **Areas of Expertise:**
+  <p>
+    <img src="https://img.shields.io/badge/Web3-6A5ACD?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3"/>
+    <img src="https://img.shields.io/badge/UI/UX Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
+    <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="OSINT"/>
+    <img src="https://img.shields.io/badge/Data Structures & Algorithms-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA"/>
+    <img src="https://img.shields.io/badge/Metadata Analysis-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Metadata Analysis"/>
+  </p>
   
   **Languages:**
   <p>
