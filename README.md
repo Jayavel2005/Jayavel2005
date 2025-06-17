@@ -110,7 +110,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayavel2005&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="Jayavel's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavel2005&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavel2005&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Jayavel2005&theme=react&hide_border=false" alt="GitHub Streak"/>
 </p>
