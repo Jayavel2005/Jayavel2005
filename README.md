@@ -8,7 +8,7 @@
     A passionate Full-Stack Engineer from India with a love for Web3, data, and design. I specialize in building interactive web applications and enjoy simplifying complex problems to make technology more accessible for everyone.
   </p>
   
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+  <a href="https://jayafolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
   <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="YOUR_TWITTER_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </div>
@@ -27,9 +27,7 @@
 
 ### 🛠️ My Tech Arsenal
 
-<details>
-  <summary>Click to see the full list of my skills</summary>
-  <br/>
+
 
   **Areas of Expertise:**
   <p>
@@ -97,8 +95,6 @@
     <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </p>
-</details>
-
 ---
 
 ### ✨ Animated Section
