@@ -66,6 +66,10 @@ I enjoy building **clean, scalable backend systems**, designing APIs, and solvin
 </p>
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jaya05_?theme=dark&font=ABeeZee&ext=heatmap)
+---
+
+---
 
 # 📊 GitHub Activity
 
