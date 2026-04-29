@@ -23,28 +23,18 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: profile-3d-city.svg
 
-          # 🔹 Minimal base (no clutter)
+          # ✅ Minimal base
           base: ""
 
-          # 🔹 Core plugin (city grid)
+          # ✅ Only valid plugin options
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_mode: compact
 
-          # 🔹 Layout & spacing
+          # ✅ Layout (supported)
           config_display: large
           config_padding: 0
-
-          # 🔹 Theme (matches your README neon-dark vibe)
-          config_colors: |
-            background: #0f2027
-            text: #ffffff
-            primary: #00E6FF
-            secondary: #a371f7
-
-          # 🔹 Accuracy
           config_timezone: Asia/Kolkata
 
-          # 🔹 Output
+          # ✅ Output
           config_output: svg
           config_order: isocalendar
