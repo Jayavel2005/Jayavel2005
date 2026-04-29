@@ -119,6 +119,10 @@
   <img src="https://raw.githubusercontent.com/Jayavel2005/Jayavel2005/main/profile-3d-city.svg" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jayavel2005/Jayavel2005/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
 </br>
 
 <div align="center">
