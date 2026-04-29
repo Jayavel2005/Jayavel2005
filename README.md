@@ -7,9 +7,12 @@
     <img src="https://komarev.com/ghpvc/?username=Jayavel2005&label=PRESTIGE+VIEWS&color=a371f7&style=flat-square" alt="Jayavel2005's profile views" />
   </a>
 
-  <p align="center">
+<p align="center">
   <a href="https://github.com/Jayavel2005?tab=followers">
     <img src="https://img.shields.io/github/followers/Jayavel2005?label=FOLLOWERS&style=for-the-badge&color=a371f7&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jayavel2005?tab=following">
+    <img src="https://img.shields.io/badge/Following-Check%20Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
