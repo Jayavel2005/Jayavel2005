@@ -84,6 +84,28 @@
 
 <br/>
 
+---
+
+<div align="center">
+  <h2>⚔️ Algorithmic Dominance</h2>
+  <p><i>Solving the complex, identifying the patterns, and mastering the grind.</i></p>
+  
+  <br/>
+  
+  <a href="https://leetcode.com/u/Jaya05_/">
+    <img src="https://leetcard.jacoblin.cool/Jaya05_?theme=dark&font=Electrolize&ext=heatmap" width="100%" alt="LeetCode Stats" />
+  </a>
+  
+  <br/>
+  <p align="right">
+    <img src="https://img.shields.io/badge/LeetCode-Pattern_Seeker-FFA116?style=flat-square&logo=leetcode" />
+  </p>
+</div>
+
+---
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
