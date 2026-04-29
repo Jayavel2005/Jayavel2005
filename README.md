@@ -1,138 +1,97 @@
-<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=220&section=header&text=Jayavel%20L.G.&fontSize=50&fontColor=ffffff&animation=twinkling"/>
+</p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=5B86E5&center=true&vCenter=true&width=900&lines=🚀+Backend+Architect+in+the+making;⚡+MERN+Stack+%7C+PostgreSQL+%7C+System+Design;🛠%EF%B8%8F+Building+Scalable+Microservices;🧠+Currently+Optimizing+Algorithms"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=200&section=header&text=Jayavel%20L.G.&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_Scalable_Systems-36BCF7?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/Jayavel2005?label=Followers&style=flat-square&color=5B86E5" />
 </p>
 
 ---
 
-<!-- ================= TYPING ================= -->
+# 🛰️ System Overview
 
-<p align="center">
+<p align="left">
+  <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXp6bm96bm96bm96bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+Focused+Full+Stack+Developer;Node.js+%7C+MERN+Stack+Engineer;Building+Scalable+Web+Systems;DSA+%7C+System+Design+Learner"/>
-
+  ### ⚡ About Me
+  - 🛠️ **Logic & Flow:** I bridge the gap between complex logic and clean code.
+  - 🏗️ **Architecture:** Focused on making APIs faster than your morning coffee.
+  - 🎯 **Mission:** Converting Coffee ☕ into clean, maintainable `json`.
 </p>
 
 ---
 
-# 👋 Hi, I'm Jayavel
+# ⚙️ Tech Core (Animated Icons)
 
-Backend engineer in the making ⚙️
-
-I enjoy building **clean, scalable backend systems**, designing APIs, and solving real-world engineering problems.
-
-**Focus Areas**
-
-- Backend development with **Node.js**
-- **DSA and system design**
-- Building real-world projects
-- Writing clean, maintainable code
-
----
-
-# ⚙️ Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,java,python,ruby&perline=6"/>
+### 🚀 Backend & Performance
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,docker&theme=dark" />
+  </a>
 </p>
 
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=6"/>
-</p>
-
-### 🛠 Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=6"/>
-</p>
-
-### 🗄 Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=6"/>
-</p>
-
-### 🧰 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,webstorm,notion,git,github"/>
-</p>
-
----
-![LeetCode Stats](https://leetcard.jacoblin.cool/Jaya05_?theme=dark&font=ABeeZee&ext=heatmap)
----
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jayavel2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayavel2005&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavel2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
+### 🛠️ Toolbelt & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,py,ruby,git,github,vscode,postman,aws&perline=9" />
+  </a>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 Real-Time Metrics
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Jayavel2005/Jayavel2005/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jayavel2005&theme=tokyonight&no-frame=true&margin-w=10"/>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayavel2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavel2005&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
+
+# 🧩 LeetCode Mastery
+<p align="center">
+  <img width="100%" src="https://leetcard.jacoblin.cool/Jaya05_?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
+# 🏆 Evolution Progress
 <p align="center">
-
-<a href="https://jayafolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayavel2005&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
 </p>
 
 ---
 
-# 🧭 Developer Philosophy
+# 🌐 Digital Handshake
 
 <p align="center">
-
-**Clarity > Cleverness**  
-**Systems > Scripts**  
-**Consistency > Motivation**
-
+  <a href="https://jayafolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-5B86E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36BCF7&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36BCF7&height=120&section=footer&animation=fadeIn"/>
 </p>
