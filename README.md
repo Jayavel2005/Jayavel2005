@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=220&section=header&text=Jayavel%20L.G.&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=L%20G%20JAYAVEL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=5B86E5&center=true&vCenter=true&width=900&lines=🚀+Backend+Architect+in+the+making;⚡+MERN+Stack+%7C+PostgreSQL+%7C+System+Design;🛠%EF%B8%8F+Building+Scalable+Microservices;🧠+Currently+Optimizing+Algorithms"/>
 </p>
